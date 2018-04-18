@@ -9,7 +9,7 @@ var user = {
     name: 'tj',
     pets: ['tobi', 'loki', 'jane', 'bandit']
 };
-// Adding this comment for testing purposes
+
 var foo = 'bar',
     beverages = { tea: ['chai', 'matcha', 'oolong'] };
 
