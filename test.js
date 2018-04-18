@@ -8,9 +8,9 @@ var answer;
 var user = {
     name: 'tj',
     pets: ['tobi', 'loki', 'jane', 'bandit']
-}
+};
 
-var foo = 'bar',
+var foo = 2,
     beverages = { tea: ['chai', 'matcha', 'oolong'] };
 
 describe('Test Suite 1', function() {
