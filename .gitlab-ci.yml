@@ -11,6 +11,6 @@ test_async:
   stage: test
   script:
    - npm install
-   - node test.js 
+   - ./node_modules/mocha/bin/mocha test.js 
   tags:
     - docker
