@@ -1,7 +1,7 @@
 {
   "name": "mocha-works",
   "version": "1.0.0",
-  "main": "test.js",
+  "main": "test2.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/AlexChmiel/AgileProcesses"
@@ -14,7 +14,6 @@
     "should": "^11.2.0"
   },
   "scripts": {
-    "start": "test2.js",
     "test": "mocha"
   }
 }
