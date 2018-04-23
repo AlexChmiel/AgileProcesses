@@ -14,7 +14,7 @@
     "should": "^11.2.0"
   },
   "scripts": {
-    "start": "test.js",
+    "start": "test2.js",
     "test": "mocha"
   }
 }
