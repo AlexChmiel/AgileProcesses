@@ -13,4 +13,7 @@
     "mocha": "^3.5.3",
     "should": "^11.2.0"
   },
+  "scripts": {
+    "testing": "mocha"
+  }
 }
