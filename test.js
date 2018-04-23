@@ -10,7 +10,7 @@ var user = {
     pets: ['tobi', 'loki', 'jane', 'bandit']
 };
 // Test comment
-var foo = 'bar',
+var foo = 2,
     beverages = { tea: ['chai', 'matcha', 'oolong'] };
 
 describe('Test Suite 1', function() {
